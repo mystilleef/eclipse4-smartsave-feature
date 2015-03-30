@@ -6,11 +6,11 @@
       provider-name="LABOKI">
 
    <description>
-      Copyright (c) 2015 by Lateef Alabi-Oki
+      Smart Save automatically and intelligently saves your files.
    </description>
 
-   <copyright url="http://www.example.com/copyright">
-      [Enter Copyright Description here.]
+   <copyright>
+      Copyright (c) 2015 by Lateef Alabi-Oki
    </copyright>
 
    <license url="https://www.eclipse.org/legal/epl-v10.html">
