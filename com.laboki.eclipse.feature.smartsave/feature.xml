@@ -2,7 +2,7 @@
 <feature
       id="com.laboki.eclipse.feature.smartsave"
       label="Smartsave"
-      version="20150424.1"
+      version="20150426"
       provider-name="LABOKI">
 
    <description>
@@ -35,7 +35,7 @@
          id="com.laboki.eclipse.plugin.smartsave"
          download-size="0"
          install-size="0"
-         version="20150424.1.0"
+         version="20150426.0.0"
          unpack="false"/>
 
 </feature>
